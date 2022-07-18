@@ -1,8 +1,4 @@
 <div>
-  
-人間讃歌は「勇気」の讃歌ッ！！　人間のすばらしさは勇気のすばらしさ！！
-  
-  <img src="https://user-images.githubusercontent.com/2980074/116512601-e3149780-a8fa-11eb-8ea2-8201b2d5a974.jpeg">
 
 宇宙に始まりはあるが、終わりはない。　---無限
 
@@ -17,4 +13,5 @@
 これは抗える者たちに対する、神からの最後通告とも言えよう。
 
   <img src="https://divergence-meter-profile-windmgc.vercel.app/api/divergence-meter">
+
 </div>
